@@ -12,4 +12,5 @@
 
 
 ![Sylz27's github stats](https://github-readme-stats.vercel.app/api?username=sylz27)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sylz27)](https://github.com/sylz27/github-readme-stats)
 
