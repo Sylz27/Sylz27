@@ -10,3 +10,6 @@
 - ⚡ Fun fact: I dance to any sound
 
 
+
+![Sylz27's github stats](https://github-readme-stats.vercel.app/api?username=sylz27)
+
